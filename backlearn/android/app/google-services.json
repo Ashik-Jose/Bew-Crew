@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819172042196",
+    "project_id": "brew-crew-a095e",
+    "storage_bucket": "brew-crew-a095e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819172042196:android:55db9095d18de146a26241",
+        "android_client_info": {
+          "package_name": "com.example.backlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819172042196-5rc9etj1lusvjf13skobet1n1g2v7ukn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKN1cooCWOoHONhGYi7gLfii-OxZNKyY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819172042196-5rc9etj1lusvjf13skobet1n1g2v7ukn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
